@@ -1,0 +1,9 @@
+Description          Purchase Price       Sell Price           Quantity Sold        Profit/Loss
+-------------        ----------------     -------------        -------------        -------------
+Oil filter           R45.89                R55.89                28                   R280.00
+Fan Belt             R135.99               R138.99               10                   R30.00
+Wiper Blades         R30.00                R34.00                210                  R840.00
+Castrol Oil 5L       R76.00                R89.00                122                  R1586.00
+12A16W Bulbs         R5.95                 R7.95                 4                    R8.00
+
+Number of Products Out Of Stock: 5
